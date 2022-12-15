@@ -1,1 +1,1 @@
-# structured_sentiment_cross_lingual
+# Structured_Sentiment_Cross_Lingual
